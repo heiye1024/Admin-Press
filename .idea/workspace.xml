@@ -2,259 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ebe01f5-5502-4cc8-a87c-bed3999a0cad" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/examples/basics.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/examples/data.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/examples/disabled-mode.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/examples/disabled-results.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/examples/hide-search.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/examples/localization-rtl-diacritics.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/examples/matcher.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/examples/multiple-max.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/examples/placeholders.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/examples/programmatic-control.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/examples/tags.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/examples/themes-templating-responsive-design.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/examples/tokenizer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/ga.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/head.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/js-source-states.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/nav/announcements-4.0.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/nav/examples.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/nav/options-old.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/nav/options.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/navigation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/notice-previous.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options-old/adapters.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options-old/backwards-compatibility.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options-old/core-options.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options-old/dropdown.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options-old/events.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options-old/setting-default-options.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options/compatibility.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options/compatibility/initial-selection.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options/compatibility/introduction.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options/compatibility/matcher.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options/compatibility/query-function.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options/compatibility/text-input.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options/core.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options/core/amd-support.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options/core/data-attributes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options/core/options.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options/data.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options/data/ajax.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options/data/array.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options/data/select.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options/data/selection-access.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options/dropdown.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options/dropdown/filtering.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options/dropdown/placement.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options/dropdown/selections.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options/dropdown/tagging.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options/events.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options/events/internal.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options/events/jquery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options/introduction.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options/not-written.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options/selections.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options/selections/clearing-selections.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options/selections/multiple.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options/selections/placeholder.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/options/selections/templating.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_includes/social-buttons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_layouts/default.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_layouts/home.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/_alert.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/_anchorjs.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/_buttons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/_code.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/_dl-panels.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/_examples.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/_featurette.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/_footer.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/_hamburger.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/_home.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/_jumbotron.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/_layout.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/_nav.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/_prettify.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/_result-repository.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/_sidenav.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/_social.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/_syntax-highlighting.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/_typography.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_alerts.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_badges.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_breadcrumbs.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_button-groups.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_buttons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_carousel.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_close.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_code.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_component-animations.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_dropdowns.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_forms.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_glyphicons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_grid.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_input-groups.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_jumbotron.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_labels.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_list-group.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_media.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_modals.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_navbar.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_navs.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_normalize.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_pager.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_pagination.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_panels.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_popovers.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_print.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_progress-bars.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_responsive-embed.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_responsive-utilities.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_scaffolding.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_tables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_theme.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_thumbnails.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_tooltip.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_type.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_utilities.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/_wells.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/mixins/_alerts.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/mixins/_background-variant.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/mixins/_border-radius.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/mixins/_buttons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/mixins/_center-block.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/mixins/_clearfix.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/mixins/_forms.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/mixins/_gradients.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/mixins/_grid-framework.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/mixins/_grid.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/mixins/_hide-text.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/mixins/_image.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/mixins/_labels.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/mixins/_list-group.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/mixins/_nav-divider.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/mixins/_nav-vertical-align.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/mixins/_opacity.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/mixins/_pagination.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/mixins/_panels.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/mixins/_progress-bar.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/mixins/_reset-filter.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/mixins/_reset-text.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/mixins/_resize.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/mixins/_responsive-visibility.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/mixins/_size.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/mixins/_tab-focus.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/mixins/_table-row.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/mixins/_text-emphasis.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/mixins/_text-overflow.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/bootstrap/mixins/_vendor-prefixes.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/font-awesome/_animated.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/font-awesome/_bordered-pulled.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/font-awesome/_core.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/font-awesome/_fixed-width.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/font-awesome/_icons.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/font-awesome/_larger.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/font-awesome/_list.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/font-awesome/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/font-awesome/_path.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/font-awesome/_rotated-flipped.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/font-awesome/_stacked.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/_sass/vendor/font-awesome/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/announcements-4.0.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/browserconfig.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/community.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/css/bootstrap.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/css/font-awesome.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/css/s2-docs.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/examples.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/images/android-chrome-36x36.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/images/android-chrome-48x48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/images/android-chrome-72x72.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/images/apple-touch-icon-57x57.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/images/apple-touch-icon-60x60.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/images/apple-touch-icon-72x72.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/images/apple-touch-icon-precomposed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/images/apple-touch-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/images/favicon-16x16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/images/favicon-32x32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/images/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/images/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/images/manifest.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/images/mstile-150x150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/images/mstile-310x150.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/images/mstile-70x70.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/images/safari-pinned-tab.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/options-old.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/options.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/ak.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/al.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/ar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/az.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/ca.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/co.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/ct.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/de.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/fl.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/ga.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/hi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/ia.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/id.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/il.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/in.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/ks.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/ky.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/la.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/ma.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/md.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/me.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/mi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/mn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/mo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/ms.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/mt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/nc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/nd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/ne.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/nh.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/nj.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/nm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/nv.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/ny.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/oh.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/ok.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/or.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/pa.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/ri.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/sc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/sd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/tn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/tx.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/ut.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/va.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/vt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/wa.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/wi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/wv.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/images/flags/wy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/js/anchor.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/js/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/js/placeholders.jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/select2/docs/vendor/js/prettify.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -272,20 +20,6 @@
     <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
     <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
     <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -342,38 +76,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="小清新风格后台模板" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="小清新风格后台模板" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="小清新风格后台模板" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="小清新风格后台模板" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="小清新风格后台模板" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -474,12 +176,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1509804964071</updated>
-      <workItem from="1509804966512" duration="164000" />
+      <workItem from="1509804966512" duration="288000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="164000" />
+    <option name="totallyTimeSpent" value="288000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -516,8 +218,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        <state relative-caret-position="190">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
           <folding />
         </state>
       </provider>
